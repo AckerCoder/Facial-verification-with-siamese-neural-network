@@ -1,4 +1,4 @@
-# Siamese Neural Network Implementation
+# Siamese Neural Network Implementation for Face Verification
 
 This repository contains an implementation of a **Siamese Neural Network (SNN)** using TensorFlow/Keras. The SNN is designed to compare pairs of images and predict their similarity, making it suitable for tasks like biometric recognition, image comparison, or verification.
 
